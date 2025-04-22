@@ -1,0 +1,13 @@
+###
+POST http://localhost:8080/extractPersonInformationSystem
+Content-Type: text/plain
+
+Peter ist 45 Jahre alt. Sein Hund heißt Pedro und seine Frau Maria Schmidt.
+Sie machen gerne lange Spaziergänge am Strand.
+
+###
+POST http://localhost:8080/extractPersonInformationUser
+Content-Type: text/plain
+
+Peter ist 45 Jahre alt. Sein Hund heißt Pedro und seine Frau Maria Schmidt.
+Sie machen gerne lange Spaziergänge am Strand.
